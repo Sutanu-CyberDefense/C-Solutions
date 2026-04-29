@@ -1,6 +1,6 @@
 # C--code-solution-
-Print Fibonacci Series using recursion :
-Code :
+## Print Fibonacci Series using recursion :
+
 #include<stdio.h>
 #include<conio.h>
 int fib(int);
@@ -24,6 +24,6 @@ int fib(int n)
         return fib(n-1)+fib(n-2);
 }
 
-Output :     Enter the n th term :
+# Output :     Enter the n th term :
 	        12
                     Fibonacci series is :   0  1  1  2  3  5  8  13  21  34  55  89 
